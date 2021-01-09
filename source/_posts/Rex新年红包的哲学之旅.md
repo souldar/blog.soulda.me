@@ -1,5 +1,6 @@
 ---
 title: Rex新年红包的哲学之旅
+translate_title: philosophical-journey-of-rex-new-year-red-packet
 date: 2018-02-17 19:45:51
 tags:
 ---

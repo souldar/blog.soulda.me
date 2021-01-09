@@ -104,3 +104,11 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+# 标题翻译
+translate_title:
+  translate_way: google  # google,youdao,baidu_with_appid,baidu_no_appid
+  is_need_proxy: true     # true | false
+  proxy_url: http://127.0.0.1:7890 # Your proxy_url
+  rewrite: false # is rewrite true | false
