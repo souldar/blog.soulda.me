@@ -8,6 +8,8 @@ tags:
 
 今年 [Rex](https://www.rexskz.info/) 像去年一样也出题发红包啦。不过今年的就比去年的哲♂学有♂趣了。
 
+<!-- more -->
+
 # 0x01 看漫画也可以涨姿势
 
 [题目如下](https://red-packet.rexskz.info/2018/?s=the_first_level)
@@ -280,4 +282,4 @@ if __name__ == '__main__':
 
 感谢大佬带我冲浪hhhhh
 
--  
+-
